@@ -16,7 +16,7 @@ Explore my intermediate-level data analysis project (Jupyter Notebook):
 [Intermediate Certification Project (.ipynb)](https://github.com/damsunshine/Data-Analyst/files/AdamIntermediateCertification.ipynb)
 
 You can also download my project presentation here:  
-[Intermediate Data Analysis Presentation (.pptx)](https://github.com/damsunshine/Data-Analyst/blob/main/Intermediete%20Data%20Analysis%20Adam%20Maulana.pptx)
+[Intermediate Data Analysis Presentation (.pptx)](https://docs.google.com/presentation/d/1THRtLO5qdaf3PaZOfqidI1eWS6kzcULA/edit?usp=drive_link&ouid=104234627666323720409&rtpof=true&sd=true)
 
 ### Beginner Level Project
 
