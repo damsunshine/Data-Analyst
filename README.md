@@ -1,20 +1,29 @@
-# Adam Maulana
-### *Aspiring Data Analyst*
+# Data Analyst Portfolio – Adam Maulana
 
-Selamat datang di repository ini!  
-Repository ini berisi kumpulan project dan portofolio saya.
+Welcome to my GitHub repository!  
+I am **Adam Maulana**, an aspiring data analyst with a passion for turning data into actionable insights.
 
-## 📄 Portofolio
+# 📄 Portfolio
 
-Lihat portofolio lengkap saya dalam format PDF:  
-[Portofolio Saya]([[https://github.com/damsunshine/Data-Analyst/blob/main/Portofolio%20Adam%20Maulana.pdf]])
+You can view my comprehensive data analyst portfolio in PDF format:  
+[Adam Maulana Portfolio (PDF)](https://github.com/damsunshine/Data-Analyst/blob/main/Portofolio%20Adam%20Maulana.pdf)
 
-## 📊 Project Jupyter Notebook
+## 🏆 Projects
 
-Berikut adalah salah satu project data science/machine learning saya yang dibuat menggunakan Jupyter Notebook (.ipynb):  
-[Project Notebook](LINK_IPYNB_PROJECT)
+### Intermediate Level Project
+
+Explore my intermediate-level data analysis project (Jupyter Notebook):  
+[Intermediate Certification Project (.ipynb)](https://github.com/damsunshine/Data-Analyst/files/AdamIntermediateCertification.ipynb)
+
+You can also download my project presentation here:  
+[Intermediate Data Analysis Presentation (.pptx)](https://github.com/damsunshine/Data-Analyst/blob/main/Intermediete%20Data%20Analysis%20Adam%20Maulana.pptx)
+
+### Beginner Level Project
+
+Explore my beginner-level data analysis project (Jupyter Notebook):  
+[Beginner Certification Project (.ipynb)](https://github.com/damsunshine/Data-Analyst/blob/main/Sertifikasi%20Beginner%20Adam.ipynb)
 
 ---
 
-Terima kasih telah mengunjungi repository ini!  
-Jangan ragu untuk menghubungi saya jika ada pertanyaan atau kolaborasi.
+Thank you for visiting my repository.  
+If you have any questions or would like to collaborate, feel free to reach out!
