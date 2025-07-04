@@ -1,4 +1,5 @@
-# Nama Repository
+# Adam Maulana
+### (i)Aspiring Data Analyst(/i)
 
 Selamat datang di repository ini!  
 Repository ini berisi kumpulan project dan portofolio saya.
