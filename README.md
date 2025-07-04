@@ -7,7 +7,7 @@ Repository ini berisi kumpulan project dan portofolio saya.
 ## 📄 Portofolio
 
 Lihat portofolio lengkap saya dalam format PDF:  
-[Portofolio Saya]([LINK_PDF_PORTOFOLIO](https://github.com/damsunshine/Data-Analyst/blob/main/Portofolio%20Adam%20Maulana.pdf))
+[Portofolio Saya]([[https://github.com/damsunshine/Data-Analyst/blob/main/Portofolio%20Adam%20Maulana.pdf]])
 
 ## 📊 Project Jupyter Notebook
 
