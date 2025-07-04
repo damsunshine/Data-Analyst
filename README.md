@@ -1,7 +1,7 @@
 # Data Analyst Portfolio – Adam Maulana
 
 Welcome to my GitHub repository!  
-I am **Adam Maulana**, an aspiring data analyst with a passion for turning data into actionable insights.
+I am **Adam Maulana**, an aspiring data analyst with a passion for turning data into actionable insights. Strong skills in Excel, SQL, Tableau, and Python. Completed a Data Analytics bootcamp with hands-on experience in data wrangling, visualization, and problem solving. Strong communication skills and eagerness to contribute to data-informed decision making in a collaborative environment.
 
 # 📄 Portfolio
 
@@ -24,6 +24,12 @@ Explore my beginner-level data analysis project (Jupyter Notebook):
 [Beginner Certification Project (.ipynb)](https://github.com/damsunshine/Data-Analyst/blob/main/Sertifikasi%20Beginner%20Adam.ipynb)
 
 ---
+
+## 📬 Contact Me
+
+- WhatsApp: [wa.me/6287880925800](https://wa.me/6287880925800)
+- Email: [adammaulana100@gmail.com](mailto:adammaulana100@gmail.com)
+- LinkedIn: [Adam Maulana](https://www.linkedin.com/in/adammaulana100/)
 
 Thank you for visiting my repository.  
 If you have any questions or would like to collaborate, feel free to reach out!
