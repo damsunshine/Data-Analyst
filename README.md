@@ -2,14 +2,14 @@
 
 Welcome to my GitHub repository!  
 I am **Adam Maulana**, an aspiring data analyst with a passion for turning data into actionable insights. 
-- **Strong skills in Excel, SQL, Tableau, and Python.** 
+- **Strong skills in Excel, Looker Studio, SQL, Tableau, and Python.** 
 - Completed a Data Analytics bootcamp with hands-on experience in data wrangling, visualization, and problem solving. 
 - Strong communication skills and eagerness to contribute to data-informed decision making in a collaborative environment.
 
 # 📄 Portfolio
 
 You can view my comprehensive data analyst portfolio in PDF format:  
-[Adam Maulana Portfolio (PDF)](https://drive.google.com/file/d/1W7XB_iPfUaPct5fWp4MKB2-lK4MT7BpC/view?usp=sharing)
+[Adam Maulana Portfolio (PDF)](https://drive.google.com/file/d/1SHCskGoqgdwARWiSXLMlGd9y-VHtvJRO/view?usp=sharing)
 
 ## 🏆 Projects
 
