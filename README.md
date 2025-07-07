@@ -9,7 +9,7 @@ I am **Adam Maulana**, an aspiring data analyst with a passion for turning data 
 # 📄 Portfolio
 
 You can view my comprehensive data analyst portfolio in PDF format:  
-[Adam Maulana Portfolio (PDF)](https://drive.google.com/file/d/1SHCskGoqgdwARWiSXLMlGd9y-VHtvJRO/view?usp=sharing)
+[Adam Maulana Portfolio (PDF)](https://drive.google.com/file/d/1lKKXqHP0EsuA6YMaTZ75aTM7bL7_k2o6/view?usp=sharing)
 
 ## 🏆 Projects
 
